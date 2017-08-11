@@ -1,0 +1,4 @@
+[
+  {"caption": "Reddit: Browse subreddit", "command": "reddit_browse_subreddit"},
+  {"caption": "Reddit: View thread", "command": "reddit_view_thread"}
+]
