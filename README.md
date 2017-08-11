@@ -10,6 +10,12 @@ talesfromtechsupport and nosleep. I'm sure you'll find your own favourites!
 I also don't really know python. I managed to muddle this thing together over
 a couple of afternoons, but I apologise if it's written poorly.
 
+## Video
+
+[Demo video](https://www.youtube.com/watch?v=xiOGEmT_7W8)
+
+![Screenshot of SublimeReddit browsing a thread](screenshot.png)
+
 ## Goals
 
 I want to make sure that this plugin cooperates nicely with the editor. I like
